@@ -7,7 +7,7 @@ public class Test {
     
   }
 
-  public void cjc
+  public void cjc()
   {
     
   }
